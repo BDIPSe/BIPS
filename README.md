@@ -1,2 +1,2 @@
 # BIPS
-Bangladeshi ICT Professionals in Sweden website project.
+Bangladeshi ICT Professionals JavaScript learning circle.
